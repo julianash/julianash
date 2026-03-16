@@ -25,9 +25,16 @@ Current research themes include:
 
 ## SEEDS – Sustainability in Biomedical Software Engineering
 
-I coordinate **SEEDS**, a research initiative dedicated to the development of **frameworks, models, indicators, and tools for evaluating and improving sustainability in software systems**, particularly in healthcare and biomedical contexts.
+SEEDS is a research initiative focused on integrating **sustainability principles into software engineering**, particularly in the context of **digital health systems**.
 
-The initiative connects **software engineering, sustainability science, and digital health innovation**, aiming to support the development of **responsible, resilient, and long-lived digital systems**.
+The initiative develops:
+
+- sustainability evaluation models
+- maturity models and indicators
+- sustainable software engineering practices
+- tools for digital health systems
+
+🌱 https://seeds.ufcspa.edu.br
 
 
 
@@ -64,6 +71,9 @@ I am interested in collaborations in:
 
 
 ## Links
+
+SEEDS Research Initiative  
+https://seeds.ufcspa.edu.br
 
 ORCID  
 https://orcid.org/0000-0002-6357-5114
